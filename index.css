@@ -616,9 +616,12 @@ body:not(.user-is-tabbing) a:focus {
 
 /* resume */
 .name{
-    font-size: 1.8rem;
+    font-size: 3rem;
 }
 .resume-heading{
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight:900;
+}
+.resume-main{
+    margin: 1.5em;
 }
